@@ -36,6 +36,7 @@ namespace lista10
             Console.WriteLine("maior número: " + ma);
             Console.WriteLine("media: " + med);
         }
+        Console.ReadKey();
 
         public static void Exercicio2()
         {
@@ -81,6 +82,8 @@ namespace lista10
                 }
             }
         }
+        Console.ReadKey();
+
         public static void Exercicio3()
         {
             int[] num;
@@ -109,6 +112,8 @@ namespace lista10
             Console.WriteLine("media= " + media);
 
         }
+        Console.ReadKey();
+
         public static void Exercicio4()
         {
             string[] n;
@@ -126,6 +131,8 @@ namespace lista10
             }
 
         }
+        Console.ReadKey();
+
         public static void Exercicio5()
         {
 
